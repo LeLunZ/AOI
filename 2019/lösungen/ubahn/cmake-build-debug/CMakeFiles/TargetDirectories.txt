@@ -1,0 +1,3 @@
+/Users/luis/Documents/AOI/2019/lösungen/ubahn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/luis/Documents/AOI/2019/lösungen/ubahn/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/luis/Documents/AOI/2019/lösungen/ubahn/cmake-build-debug/CMakeFiles/ubahn.dir

@@ -1,0 +1,3 @@
+/Users/luis/Documents/AOI/hue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/luis/Documents/AOI/hue/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/luis/Documents/AOI/hue/cmake-build-debug/CMakeFiles/hue.dir
